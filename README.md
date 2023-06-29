@@ -1,6 +1,7 @@
 # Datascienceprojects
 This repository contains a collection of data science projects that demonstrate various techniques and methodologies used in the field of data science. 
 Each project focuses on solving a specific problem or exploring a particular dataset, and includes code, documentation, and resources related to the project.
+
 1)NUMBER CLASSIFICATION:
 Number Classification
 This repository contains a number classification project that focuses on the recognition and classification of handwritten digits. 
